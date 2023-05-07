@@ -14,7 +14,8 @@
 • a quantidade de produtosqueo valor é abaixo de 10 reais;
 • a médiados valores dos produtos;
 • a quantidade de produtos que valor acima da média;
-• a maior valor e o nome do produto;e.faça uma listagem que imprima na tela (Nome Vlr do produto)
+• a maior valor e o nome do produto;
+• faça uma listagem que imprima na tela (Nome Vlr do produto)
 
 5 - Escreva um programa que preencha umvetorcom os nomes de 5 vendedores, preencha também outro vetorcom valor total das vendas de cada vendedor. Cada vendedor recebe 10% de comissão sobre as vendas. Faça os seguintes cálculos e mostre os resultados na tela:
 • Uma  listagem  com  o  nome  e  o  valor  a  receber  de  cada  vendedor  (total  das vendas * 0.10)
